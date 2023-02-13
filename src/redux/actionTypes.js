@@ -1,0 +1,11 @@
+export const FETCH_PRODUCTS_SUCCESS = 'FETCH_PRODUCTS_SUCCESS';
+export const ADD_TO_CART = 'ADD_TO_CART';
+export const ADD='ADD';
+export const SUBTRACT='SUBTRACT';
+export const REMOVE_PRODUCTS_FROM_CART='REMOVE_PRODUCTS_FROM_CART'
+export const ADD_TO_WISHLIST='ADD_TO_WISHLIST'
+export const REMOVE_FROM_WISHLIST='REMOVE_FROM_WISHLIST'
+export const FILTER = 'FILTER';
+export const HIGH_TO_LOW = 'HIGH_TO_LOW';
+export const LOW_TO_HIGH = 'LOW_TO_HIGH';
+export const SEARCH='SEARCH';
